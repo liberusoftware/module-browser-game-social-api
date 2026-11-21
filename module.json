@@ -3,7 +3,7 @@
   "name": "browser-game-social-api",
   "display_name": "Browser Game Social API",
   "description": "Versioned authenticated social catalog API.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\SocialApi\\SocialApiServiceProvider",
   "requires": {

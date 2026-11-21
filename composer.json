@@ -19,7 +19,7 @@
       "name": "browser-game-social-api"
     }
   },
-  "version": "1.0.1",
+  "version": "1.1.0",
   "require-dev": {
     "liberusoftware/package-testbench": "^1.5",
     "pestphp/pest": "^5.3.3"
